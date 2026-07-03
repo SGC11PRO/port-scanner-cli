@@ -1,4 +1,4 @@
-# 🔎 Port Scanner CLI
+# Port Scanner CLI
 
 A concurrent TCP port scanner built with Python to learn networking fundamentals and socket programming.
 
